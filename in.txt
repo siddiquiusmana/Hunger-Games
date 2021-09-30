@@ -1,0 +1,6 @@
+5
+4 NorthernSons 7 3 3
+6 IndigoIkwas 5 2 3
+1 Samurai 10 3 2 
+7 Sultans 9 2 4 
+3 Highlanders 8 2 1
